@@ -5,7 +5,7 @@
 * [Technologies](#technologies)
 
 ## General info
-Quantum Aproximate Optimization Algorithm or QAOA are quantum algorithms that are used to solve combinatorial optimization problem. Maxcut is an example of combinatorial optimization problem.<br>
+Quantum Aproximate Optimization Algorithms (QAOA) are quantum algorithms that are used to solve combinatorial optimization problem. Maxcut is an example of combinatorial optimization problem.<br>
 MaxCut problem — given a graph, find a way to divide it into two groups, such that the edges going between the two groups have the biggest possible weight. <br>
 
 This code is generalised solution for weighted maxcut problem by introducing minor changes in [the code for unweighted graph](https://lucaman99.github.io/new_blog/2020/mar16.html) by [Jack Ceroni](https://lucaman99.github.io/)
